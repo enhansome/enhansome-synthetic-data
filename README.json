@@ -15,7 +15,7 @@
             "last_commit": "2026-08-03T17:10:57Z",
             "owner": "joke2k",
             "repo": "faker",
-            "stars": 19370
+            "stars": 19371
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-04-23T12:34:53Z",
             "owner": "Data-Centric-AI-Community",
             "repo": "fg-data-synthetic",
-            "stars": 1652
+            "stars": 1653
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2023-11-03T06:07:19Z",
             "owner": "fjxmlzn",
             "repo": "DoppelGANger",
-            "stars": 312
+            "stars": 313
           }
         },
         {
@@ -248,7 +248,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:55:27.818Z",
+    "last_updated": "2026-08-20T02:35:25.801Z",
     "original_repository": "statice/awesome-synthetic-data",
     "original_repository_id": 158086131,
     "original_repository_sha": "799a3bea86d34124ace308b11c61ecc759e2eab3",
