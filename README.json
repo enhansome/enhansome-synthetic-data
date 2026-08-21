@@ -12,7 +12,7 @@
             "archived": false,
             "id": 6662075,
             "language": "Python",
-            "last_commit": "2026-08-03T17:10:57Z",
+            "last_commit": "2026-08-20T21:15:40Z",
             "owner": "joke2k",
             "repo": "faker",
             "stars": 19371
@@ -60,7 +60,7 @@
             "last_commit": "2026-08-10T00:30:34Z",
             "owner": "sdv-dev",
             "repo": "Copulas",
-            "stars": 650
+            "stars": 651
           }
         },
         {
@@ -248,7 +248,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T02:35:25.801Z",
+    "last_updated": "2026-08-21T02:42:34.730Z",
     "original_repository": "statice/awesome-synthetic-data",
     "original_repository_id": 158086131,
     "original_repository_sha": "799a3bea86d34124ace308b11c61ecc759e2eab3",
