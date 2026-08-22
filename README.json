@@ -12,10 +12,10 @@
             "archived": false,
             "id": 6662075,
             "language": "Python",
-            "last_commit": "2026-08-20T21:15:40Z",
+            "last_commit": "2026-08-21T16:43:48Z",
             "owner": "joke2k",
             "repo": "faker",
-            "stars": 19371
+            "stars": 19374
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-08-10T15:01:33Z",
             "owner": "sdv-dev",
             "repo": "CTGAN",
-            "stars": 1559
+            "stars": 1560
           }
         },
         {
@@ -248,7 +248,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T02:42:34.730Z",
+    "last_updated": "2026-08-22T02:32:47.119Z",
     "original_repository": "statice/awesome-synthetic-data",
     "original_repository_id": 158086131,
     "original_repository_sha": "799a3bea86d34124ace308b11c61ecc759e2eab3",
