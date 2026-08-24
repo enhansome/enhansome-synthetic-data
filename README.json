@@ -30,7 +30,7 @@
             "last_commit": "2026-04-23T12:34:53Z",
             "owner": "Data-Centric-AI-Community",
             "repo": "fg-data-synthetic",
-            "stars": 1653
+            "stars": 1654
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-08-10T15:01:33Z",
             "owner": "sdv-dev",
             "repo": "CTGAN",
-            "stars": 1560
+            "stars": 1559
           }
         },
         {
@@ -248,7 +248,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T02:42:57.831Z",
+    "last_updated": "2026-08-24T14:32:42.122Z",
     "original_repository": "statice/awesome-synthetic-data",
     "original_repository_id": 158086131,
     "original_repository_sha": "799a3bea86d34124ace308b11c61ecc759e2eab3",
