@@ -57,7 +57,7 @@
             "archived": false,
             "id": 110606051,
             "language": "Python",
-            "last_commit": "2026-08-10T00:30:34Z",
+            "last_commit": "2026-08-24T00:22:02Z",
             "owner": "sdv-dev",
             "repo": "Copulas",
             "stars": 651
@@ -248,7 +248,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T02:42:43.840Z",
+    "last_updated": "2026-08-24T02:42:57.831Z",
     "original_repository": "statice/awesome-synthetic-data",
     "original_repository_id": 158086131,
     "original_repository_sha": "799a3bea86d34124ace308b11c61ecc759e2eab3",
