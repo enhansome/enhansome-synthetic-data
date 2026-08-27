@@ -15,7 +15,7 @@
             "last_commit": "2026-08-21T16:43:48Z",
             "owner": "joke2k",
             "repo": "faker",
-            "stars": 19379
+            "stars": 19380
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-08-24T00:22:02Z",
             "owner": "sdv-dev",
             "repo": "Copulas",
-            "stars": 651
+            "stars": 652
           }
         },
         {
@@ -248,9 +248,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T02:44:59.859Z",
-    "original_repository": "statice/awesome-synthetic-data",
-    "original_repository_id": 158086131,
+    "last_updated": "2026-08-27T12:08:18.192Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 158086131,
+      "language": null,
+      "last_commit": "2024-01-11T12:32:05Z",
+      "owner": "statice",
+      "repo": "awesome-synthetic-data",
+      "stars": 263
+    },
     "original_repository_sha": "799a3bea86d34124ace308b11c61ecc759e2eab3",
     "enhanced_repository": "enhansome/enhansome-synthetic-data",
     "enhanced_repository_description": null,
