@@ -15,8 +15,9 @@
             "last_commit": "2026-08-21T16:43:48Z",
             "owner": "joke2k",
             "repo": "faker",
-            "stars": 19380
-          }
+            "stars": 19382
+          },
+          "first_seen": "2026-08-28T13:07:45.600Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "Data-Centric-AI-Community",
             "repo": "fg-data-synthetic",
             "stars": 1654
-          }
+          },
+          "first_seen": "2026-08-28T13:07:45.600Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "sdv-dev",
             "repo": "CTGAN",
             "stars": 1562
-          }
+          },
+          "first_seen": "2026-08-28T13:07:45.600Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "sdv-dev",
             "repo": "Copulas",
             "stars": 652
-          }
+          },
+          "first_seen": "2026-08-28T13:07:45.600Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "plaitpy",
             "repo": "plaitpy",
             "stars": 437
-          }
+          },
+          "first_seen": "2026-08-28T13:07:45.600Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "fjxmlzn",
             "repo": "DoppelGANger",
             "stars": 313
-          }
+          },
+          "first_seen": "2026-08-28T13:07:45.600Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "tirthajyoti",
             "repo": "pydbgen",
             "stars": 312
-          }
+          },
+          "first_seen": "2026-08-28T13:07:45.600Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "sdv-dev",
             "repo": "TGAN",
             "stars": 298
-          }
+          },
+          "first_seen": "2026-08-28T13:07:45.600Z"
         },
         {
           "node_type": "item",
@@ -136,7 +144,8 @@
             "owner": "usnistgov",
             "repo": "PrivacyEngCollabSpace",
             "stars": 281
-          }
+          },
+          "first_seen": "2026-08-28T13:07:45.600Z"
         },
         {
           "node_type": "item",
@@ -151,7 +160,8 @@
             "owner": "firmai",
             "repo": "datagene",
             "stars": 206
-          }
+          },
+          "first_seen": "2026-08-28T13:07:45.600Z"
         },
         {
           "node_type": "item",
@@ -166,7 +176,8 @@
             "owner": "stefan-jansen",
             "repo": "synthetic-data-for-finance",
             "stars": 130
-          }
+          },
+          "first_seen": "2026-08-28T13:07:45.600Z"
         },
         {
           "node_type": "item",
@@ -181,7 +192,8 @@
             "owner": "spiros",
             "repo": "tofu",
             "stars": 73
-          }
+          },
+          "first_seen": "2026-08-28T13:07:45.600Z"
         },
         {
           "node_type": "item",
@@ -196,7 +208,8 @@
             "owner": "DPBayes",
             "repo": "twinify",
             "stars": 55
-          }
+          },
+          "first_seen": "2026-08-28T13:07:45.600Z"
         },
         {
           "node_type": "item",
@@ -211,7 +224,8 @@
             "owner": "huda-lab",
             "repo": "synner",
             "stars": 46
-          }
+          },
+          "first_seen": "2026-08-28T13:07:45.600Z"
         },
         {
           "node_type": "item",
@@ -226,7 +240,8 @@
             "owner": "nesl",
             "repo": "nist_differential_privacy_synthetic_data_challenge",
             "stars": 26
-          }
+          },
+          "first_seen": "2026-08-28T13:07:45.600Z"
         },
         {
           "node_type": "item",
@@ -241,14 +256,15 @@
             "owner": "DataResponsibly",
             "repo": "MirrorDataGenerator",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-28T13:07:45.600Z"
         }
       ],
       "title": "Open source tools"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:08:18.192Z",
+    "last_updated": "2026-08-28T13:07:45.600Z",
     "original_repository_info": {
       "archived": false,
       "id": 158086131,
