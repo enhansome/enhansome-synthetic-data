@@ -10,12 +10,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Faker is a Python package that generates fake data for you.",
+            "homepage": "https://faker.readthedocs.io",
             "id": 6662075,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-21T16:43:48Z",
+            "open_issues": 33,
             "owner": "joke2k",
             "repo": "faker",
-            "stars": 19382
+            "stars": 19382,
+            "topics": [
+              "dataset",
+              "fake",
+              "fake-data",
+              "faker",
+              "faker-generator",
+              "python",
+              "test-data",
+              "test-data-generator",
+              "testing"
+            ]
           },
           "first_seen": "2026-08-28T13:07:45.600Z"
         },
@@ -26,12 +41,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Synthetic data generators for tabular and time-series data",
+            "homepage": "https://docs.sdk.ydata.ai",
             "id": 261229105,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2026-04-23T12:34:53Z",
+            "open_issues": 64,
             "owner": "Data-Centric-AI-Community",
             "repo": "fg-data-synthetic",
-            "stars": 1654
+            "stars": 1654,
+            "topics": [
+              "datageneration",
+              "datagenerator",
+              "deep-learning",
+              "gan",
+              "gan-architectures",
+              "gans",
+              "generative-adversarial-network",
+              "machine-learning",
+              "python3",
+              "pytorch",
+              "synthetic-data",
+              "tensorflow2",
+              "time-series",
+              "timeseries",
+              "training-data"
+            ]
           },
           "first_seen": "2026-08-28T13:07:45.600Z"
         },
@@ -42,12 +78,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Conditional GAN for generating synthetic tabular data.",
+            "homepage": null,
             "id": 207162195,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-10T15:01:33Z",
+            "open_issues": 39,
             "owner": "sdv-dev",
             "repo": "CTGAN",
-            "stars": 1562
+            "stars": 1562,
+            "topics": [
+              "data-generation",
+              "generative-adversarial-network",
+              "synthetic-data",
+              "synthetic-data-generation",
+              "tabular-data"
+            ]
           },
           "first_seen": "2026-08-28T13:07:45.600Z"
         },
@@ -58,12 +105,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A library to model multivariate data using copulas.",
+            "homepage": "https://sdv.dev/Copulas/",
             "id": 110606051,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-24T00:22:02Z",
+            "open_issues": 55,
             "owner": "sdv-dev",
             "repo": "Copulas",
-            "stars": 652
+            "stars": 652,
+            "topics": [
+              "copulas",
+              "data-generation",
+              "generative-ai",
+              "generative-model",
+              "machine-learning",
+              "synthetic-data",
+              "synthetic-data-generation",
+              "tabular-data"
+            ]
           },
           "first_seen": "2026-08-28T13:07:45.600Z"
         },
@@ -74,12 +135,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "plait.py - a fake data modeler ",
+            "homepage": null,
             "id": 115063948,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2018-12-27T02:32:51Z",
+            "open_issues": 4,
             "owner": "plaitpy",
             "repo": "plaitpy",
-            "stars": 437
+            "stars": 437,
+            "topics": [
+              "declarative",
+              "modeling",
+              "synthetic-data"
+            ]
           },
           "first_seen": "2026-08-28T13:07:45.600Z"
         },
@@ -90,12 +160,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[IMC 2020 (Best Paper Finalist)] Using GANs for Sharing Networked Time Series Data: Challenges, Initial Promise, and Open Questions",
+            "homepage": "http://arxiv.org/abs/1909.13403",
             "id": 211554840,
             "language": "Python",
+            "license": "BSD-3-Clause-Clear",
             "last_commit": "2023-11-03T06:07:19Z",
+            "open_issues": 4,
             "owner": "fjxmlzn",
             "repo": "DoppelGANger",
-            "stars": 313
+            "stars": 313,
+            "topics": [
+              "dataset-generation",
+              "datasets",
+              "doppelganger",
+              "fidelity",
+              "gan",
+              "gans",
+              "generative-adversarial-network",
+              "privacy",
+              "synthetic-data",
+              "synthetic-data-generation",
+              "synthetic-data-generator",
+              "synthetic-dataset-generation",
+              "time-series",
+              "timeseries"
+            ]
           },
           "first_seen": "2026-08-28T13:07:45.600Z"
         },
@@ -106,12 +196,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Random dataframe and database table generator",
+            "homepage": "https://pydbgen.readthedocs.io/en/latest/",
             "id": 124701797,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2021-06-09T23:32:03Z",
+            "open_issues": 4,
             "owner": "tirthajyoti",
             "repo": "pydbgen",
-            "stars": 312
+            "stars": 312,
+            "topics": [
+              "data-generation",
+              "data-science",
+              "database",
+              "fake-data",
+              "generator",
+              "pandas-dataframe",
+              "python",
+              "random-generation",
+              "sqlite",
+              "sqlite3",
+              "synthetic-data",
+              "synthetic-dataset-generation"
+            ]
           },
           "first_seen": "2026-08-28T13:07:45.600Z"
         },
@@ -122,12 +230,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Generative adversarial training for generating synthetic  tabular data.",
+            "homepage": null,
             "id": 134745622,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-11-26T22:17:25Z",
+            "open_issues": 33,
             "owner": "sdv-dev",
             "repo": "TGAN",
-            "stars": 298
+            "stars": 298,
+            "topics": [
+              "generative-adversarial-network",
+              "synthesizing-tabular-data",
+              "synthetic-data",
+              "tabular-data"
+            ]
           },
           "first_seen": "2026-08-28T13:07:45.600Z"
         },
@@ -138,12 +256,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Privacy Engineering Collaboration Space",
+            "homepage": "https://www.nist.gov/itl/applied-cybersecurity/privacy-engineering/collaboration-space",
             "id": 152788528,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-08-18T14:55:37Z",
+            "open_issues": 9,
             "owner": "usnistgov",
             "repo": "PrivacyEngCollabSpace",
-            "stars": 281
+            "stars": 281,
+            "topics": [
+              "differential-privacy",
+              "disassociability",
+              "risk-management"
+            ]
           },
           "first_seen": "2026-08-28T13:07:45.600Z"
         },
@@ -154,12 +281,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "DataGene - Identify How Similar TS Datasets Are to One Another (by @firmai)",
+            "homepage": "https://ssrn.com/abstract=3619626",
             "id": 262629246,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2022-02-08T18:11:00Z",
+            "open_issues": 1,
             "owner": "firmai",
             "repo": "datagene",
-            "stars": 206
+            "stars": 206,
+            "topics": [
+              "data-structures",
+              "data-transformations",
+              "dataset-generation",
+              "dataset-similarity",
+              "decomposition",
+              "distance-calculations",
+              "distance-measures",
+              "encoding",
+              "finance",
+              "model-checking",
+              "predictive-maintenance",
+              "similarity-measures",
+              "similarity-score",
+              "synthesizers",
+              "synthetic-data",
+              "synthetic-dataset-generation",
+              "testing-framework",
+              "transformation-recipes"
+            ]
           },
           "first_seen": "2026-08-28T13:07:45.600Z"
         },
@@ -170,12 +321,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Material for QuantUniversity talk on Sythetic Data Generation for Finance.",
+            "homepage": "https://quspeakerseries14.splashthat.com/",
             "id": 313518975,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2020-11-18T16:12:56Z",
+            "open_issues": 0,
             "owner": "stefan-jansen",
             "repo": "synthetic-data-for-finance",
-            "stars": 130
+            "stars": 130,
+            "topics": [
+              "algorithmic-trading",
+              "finance",
+              "generative-adversarial-network",
+              "machine-learning",
+              "synthetic-data"
+            ]
           },
           "first_seen": "2026-08-28T13:07:45.600Z"
         },
@@ -186,12 +348,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tofu is a Python tool for generating synthetic UK Biobank data.",
+            "homepage": null,
             "id": 236825382,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-07-25T20:44:41Z",
+            "open_issues": 4,
             "owner": "spiros",
             "repo": "tofu",
-            "stars": 73
+            "stars": 73,
+            "topics": [
+              "synthetic-data",
+              "ukbiobank"
+            ]
           },
           "first_seen": "2026-08-28T13:07:45.600Z"
         },
@@ -202,12 +372,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A software package for privacy-preserving generation of a synthetic twin to a given sensitive data set.",
+            "homepage": null,
             "id": 274605801,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-09-03T22:16:29Z",
+            "open_issues": 16,
             "owner": "DPBayes",
             "repo": "twinify",
-            "stars": 55
+            "stars": 55,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:07:45.600Z"
         },
@@ -218,12 +393,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Generating Realistic Synthetic Data",
+            "homepage": null,
             "id": 204450857,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-02-15T13:18:37Z",
+            "open_issues": 14,
             "owner": "huda-lab",
             "repo": "synner",
-            "stars": 46
+            "stars": 46,
+            "topics": [
+              "angularjs",
+              "chi",
+              "d3",
+              "data-generator",
+              "gui",
+              "hci",
+              "research",
+              "research-paper",
+              "research-project",
+              "sketches",
+              "user-experience",
+              "user-interface",
+              "visualization"
+            ]
           },
           "first_seen": "2026-08-28T13:07:45.600Z"
         },
@@ -234,12 +428,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "UCLANesl - NIST Differential Privacy Challenge (Match 3)",
+            "homepage": null,
             "id": 189153390,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2019-05-30T01:19:26Z",
+            "open_issues": 2,
             "owner": "nesl",
             "repo": "nist_differential_privacy_synthetic_data_challenge",
-            "stars": 26
+            "stars": 26,
+            "topics": [
+              "differential-privacy",
+              "gans",
+              "privacy",
+              "wasserstein-gans"
+            ]
           },
           "first_seen": "2026-08-28T13:07:45.600Z"
         },
@@ -250,12 +454,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MirrorDataGenerator is a python tool that generates synthetic data based on user-specified causal relations among features in the data. It focuses on how features relate with demographic attributes (e.g. gender, race, disability status, etc), which are considered as sensitive information for certain domains (e.g. employment, housing, etc). ",
+            "homepage": null,
             "id": 274161284,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2022-06-22T03:31:15Z",
+            "open_issues": 1,
             "owner": "DataResponsibly",
             "repo": "MirrorDataGenerator",
-            "stars": 25
+            "stars": 25,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:07:45.600Z"
         }
@@ -264,15 +473,25 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T13:07:45.600Z",
+    "last_updated": "2026-08-29T04:50:29.610Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome synthetic data tools (open source and commercial).",
+      "homepage": null,
       "id": 158086131,
       "language": null,
+      "license": "Apache-2.0",
       "last_commit": "2024-01-11T12:32:05Z",
+      "open_issues": 12,
       "owner": "statice",
       "repo": "awesome-synthetic-data",
-      "stars": 263
+      "stars": 263,
+      "topics": [
+        "anonymization",
+        "awesome-list",
+        "machine-learning",
+        "synthetic-data"
+      ]
     },
     "original_repository_sha": "799a3bea86d34124ace308b11c61ecc759e2eab3",
     "enhanced_repository": "enhansome/enhansome-synthetic-data",
