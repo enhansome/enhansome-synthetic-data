@@ -19,7 +19,7 @@
             "open_issues": 33,
             "owner": "joke2k",
             "repo": "faker",
-            "stars": 19383,
+            "stars": 19385,
             "topics": [
               "dataset",
               "fake",
@@ -110,7 +110,7 @@
             "id": 110606051,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-24T00:22:02Z",
+            "last_commit": "2026-08-31T00:55:39Z",
             "open_issues": 55,
             "owner": "sdv-dev",
             "repo": "Copulas",
@@ -473,7 +473,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T07:01:03.246Z",
+    "last_updated": "2026-08-31T07:16:40.116Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome synthetic data tools (open source and commercial).",
