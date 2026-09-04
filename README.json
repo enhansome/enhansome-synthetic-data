@@ -19,7 +19,7 @@
             "open_issues": 30,
             "owner": "joke2k",
             "repo": "faker",
-            "stars": 19386,
+            "stars": 19389,
             "topics": [
               "dataset",
               "fake",
@@ -46,8 +46,8 @@
             "id": 261229105,
             "language": "Jupyter Notebook",
             "license": "MIT",
-            "last_commit": "2026-04-23T12:34:53Z",
-            "open_issues": 64,
+            "last_commit": "2026-09-03T22:52:13Z",
+            "open_issues": 65,
             "owner": "Data-Centric-AI-Community",
             "repo": "fg-data-synthetic",
             "stars": 1654,
@@ -473,7 +473,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T06:06:52.789Z",
+    "last_updated": "2026-09-04T06:14:22.754Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome synthetic data tools (open source and commercial).",
