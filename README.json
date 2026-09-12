@@ -19,7 +19,7 @@
             "open_issues": 27,
             "owner": "joke2k",
             "repo": "faker",
-            "stars": 19398,
+            "stars": 19396,
             "topics": [
               "dataset",
               "fake",
@@ -50,7 +50,7 @@
             "open_issues": 65,
             "owner": "Data-Centric-AI-Community",
             "repo": "fg-data-synthetic",
-            "stars": 1656,
+            "stars": 1657,
             "topics": [
               "datageneration",
               "datagenerator",
@@ -473,7 +473,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T06:21:11.695Z",
+    "last_updated": "2026-09-12T06:07:56.289Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome synthetic data tools (open source and commercial).",
