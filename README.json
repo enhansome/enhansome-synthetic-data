@@ -16,7 +16,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-09-15T00:11:13Z",
-            "open_issues": 25,
+            "open_issues": 29,
             "owner": "joke2k",
             "repo": "faker",
             "stars": 19403,
@@ -473,7 +473,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T06:14:26.126Z",
+    "last_updated": "2026-09-20T06:37:35.802Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome synthetic data tools (open source and commercial).",
