@@ -87,7 +87,7 @@
             "open_issues": 40,
             "owner": "sdv-dev",
             "repo": "CTGAN",
-            "stars": 1566,
+            "stars": 1567,
             "topics": [
               "data-generation",
               "generative-adversarial-network",
@@ -473,7 +473,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T06:44:17.294Z",
+    "last_updated": "2026-09-22T06:31:35.719Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome synthetic data tools (open source and commercial).",
