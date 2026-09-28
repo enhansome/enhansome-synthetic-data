@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-09-15T00:11:13Z",
-            "open_issues": 39,
+            "open_issues": 41,
             "owner": "joke2k",
             "repo": "faker",
-            "stars": 19413,
+            "stars": 19414,
             "topics": [
               "dataset",
               "fake",
@@ -87,7 +87,7 @@
             "open_issues": 41,
             "owner": "sdv-dev",
             "repo": "CTGAN",
-            "stars": 1569,
+            "stars": 1570,
             "topics": [
               "data-generation",
               "generative-adversarial-network",
@@ -114,7 +114,7 @@
             "open_issues": 55,
             "owner": "sdv-dev",
             "repo": "Copulas",
-            "stars": 652,
+            "stars": 653,
             "topics": [
               "copulas",
               "data-generation",
@@ -473,7 +473,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T06:50:01.502Z",
+    "last_updated": "2026-09-28T07:15:44.573Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome synthetic data tools (open source and commercial).",
