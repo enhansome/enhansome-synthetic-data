@@ -15,7 +15,7 @@
             "id": 6662075,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-15T00:11:13Z",
+            "last_commit": "2026-09-29T00:56:28Z",
             "open_issues": 41,
             "owner": "joke2k",
             "repo": "faker",
@@ -330,7 +330,7 @@
             "open_issues": 0,
             "owner": "stefan-jansen",
             "repo": "synthetic-data-for-finance",
-            "stars": 130,
+            "stars": 131,
             "topics": [
               "algorithmic-trading",
               "finance",
@@ -473,7 +473,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T07:15:44.573Z",
+    "last_updated": "2026-09-29T07:13:11.468Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome synthetic data tools (open source and commercial).",
@@ -482,7 +482,7 @@
       "language": null,
       "license": "Apache-2.0",
       "last_commit": "2024-01-11T12:32:05Z",
-      "open_issues": 12,
+      "open_issues": 13,
       "owner": "statice",
       "repo": "awesome-synthetic-data",
       "stars": 266,
