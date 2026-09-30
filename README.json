@@ -19,7 +19,7 @@
             "open_issues": 41,
             "owner": "joke2k",
             "repo": "faker",
-            "stars": 19414,
+            "stars": 19416,
             "topics": [
               "dataset",
               "fake",
@@ -265,7 +265,7 @@
             "open_issues": 9,
             "owner": "usnistgov",
             "repo": "PrivacyEngCollabSpace",
-            "stars": 281,
+            "stars": 282,
             "topics": [
               "differential-privacy",
               "disassociability",
@@ -473,7 +473,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T07:13:11.468Z",
+    "last_updated": "2026-09-30T07:03:08.024Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome synthetic data tools (open source and commercial).",
