@@ -19,7 +19,7 @@
             "open_issues": 41,
             "owner": "joke2k",
             "repo": "faker",
-            "stars": 19424,
+            "stars": 19422,
             "topics": [
               "dataset",
               "fake",
@@ -114,7 +114,7 @@
             "open_issues": 55,
             "owner": "sdv-dev",
             "repo": "Copulas",
-            "stars": 653,
+            "stars": 654,
             "topics": [
               "copulas",
               "data-generation",
@@ -473,7 +473,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T07:15:16.319Z",
+    "last_updated": "2026-10-03T05:13:39.379Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome synthetic data tools (open source and commercial).",
