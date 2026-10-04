@@ -114,7 +114,7 @@
             "open_issues": 55,
             "owner": "sdv-dev",
             "repo": "Copulas",
-            "stars": 654,
+            "stars": 653,
             "topics": [
               "copulas",
               "data-generation",
@@ -473,7 +473,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T06:48:06.727Z",
+    "last_updated": "2026-10-04T07:09:12.369Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome synthetic data tools (open source and commercial).",

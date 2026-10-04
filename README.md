@@ -15,7 +15,7 @@ Inspired by [Awesome Synthetic Data](https://github.com/gretelai/awesome-synthet
 * [Faker](https://github.com/joke2k/faker) ⭐ 19,421 | 🐛 41 | 🌐 Python | 📅 2026-09-29: a Python package that generates fake data (Note: this tool does not generate synthetic data but offers dummy data).
 * [YData](https://github.com/ydataai/ydata-synthetic) ⭐ 1,659 | 🐛 65 | 🌐 Jupyter Notebook | 📅 2026-09-03: synthetic structured data generator by YData, a commercial vendor.
 * [CTGAN](https://github.com/sdv-dev/CTGAN) ⭐ 1,572 | 🐛 41 | 🌐 Python | 📅 2026-09-14: SDV’s collection of deep learning-based synthetic data generators for single table data.
-* [Copulas](https://github.com/sdv-dev/Copulas) ⭐ 654 | 🐛 55 | 🌐 Python | 📅 2026-09-21: a Python library for modeling multivariate distributions and sampling from them using copula functions.
+* [Copulas](https://github.com/sdv-dev/Copulas) ⭐ 653 | 🐛 55 | 🌐 Python | 📅 2026-09-21: a Python library for modeling multivariate distributions and sampling from them using copula functions.
 * [Plait.py](https://github.com/plaitpy/plaitpy) ⭐ 437 | 🐛 4 | 🌐 Python | 📅 2018-12-27: a program for generating fake data from composable yaml templates.
 * [DoppelGANger](https://github.com/fjxmlzn/DoppelGANger) ⭐ 313 | 🐛 4 | 🌐 Python | 📅 2023-11-03: a synthetic data generation framework based on generative adversarial networks (GANs).
 * [Pydbgen](https://github.com/tirthajyoti/pydbgen) ⭐ 312 | 🐛 4 | 🌐 Python | 📅 2021-06-09: a Python package that generates a random database table based on the user's choice of data types.
@@ -66,4 +66,4 @@ Inspired by [Awesome Synthetic Data](https://github.com/gretelai/awesome-synthet
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._
