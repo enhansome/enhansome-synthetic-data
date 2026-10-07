@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-05T22:08:23Z",
-            "open_issues": 46,
+            "open_issues": 47,
             "owner": "joke2k",
             "repo": "faker",
-            "stars": 19425,
+            "stars": 19427,
             "topics": [
               "dataset",
               "fake",
@@ -87,7 +87,7 @@
             "open_issues": 41,
             "owner": "sdv-dev",
             "repo": "CTGAN",
-            "stars": 1573,
+            "stars": 1572,
             "topics": [
               "data-generation",
               "generative-adversarial-network",
@@ -265,7 +265,7 @@
             "open_issues": 9,
             "owner": "usnistgov",
             "repo": "PrivacyEngCollabSpace",
-            "stars": 282,
+            "stars": 283,
             "topics": [
               "differential-privacy",
               "disassociability",
@@ -473,7 +473,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:46:13.940Z",
+    "last_updated": "2026-10-07T07:29:01.573Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome synthetic data tools (open source and commercial).",
