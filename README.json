@@ -19,7 +19,7 @@
             "open_issues": 45,
             "owner": "joke2k",
             "repo": "faker",
-            "stars": 19443,
+            "stars": 19444,
             "topics": [
               "dataset",
               "fake",
@@ -87,7 +87,7 @@
             "open_issues": 40,
             "owner": "sdv-dev",
             "repo": "CTGAN",
-            "stars": 1573,
+            "stars": 1574,
             "topics": [
               "data-generation",
               "generative-adversarial-network",
@@ -265,7 +265,7 @@
             "open_issues": 9,
             "owner": "usnistgov",
             "repo": "PrivacyEngCollabSpace",
-            "stars": 283,
+            "stars": 284,
             "topics": [
               "differential-privacy",
               "disassociability",
@@ -473,7 +473,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T06:26:24.861Z",
+    "last_updated": "2026-10-15T06:09:10.798Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome synthetic data tools (open source and commercial).",
