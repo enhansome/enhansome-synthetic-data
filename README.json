@@ -19,7 +19,7 @@
             "open_issues": 48,
             "owner": "joke2k",
             "repo": "faker",
-            "stars": 19450,
+            "stars": 19454,
             "topics": [
               "dataset",
               "fake",
@@ -87,7 +87,7 @@
             "open_issues": 41,
             "owner": "sdv-dev",
             "repo": "CTGAN",
-            "stars": 1575,
+            "stars": 1576,
             "topics": [
               "data-generation",
               "generative-adversarial-network",
@@ -473,7 +473,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T06:17:11.657Z",
+    "last_updated": "2026-10-21T06:17:18.904Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome synthetic data tools (open source and commercial).",
