@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-09T20:06:37Z",
-            "open_issues": 50,
+            "open_issues": 53,
             "owner": "joke2k",
             "repo": "faker",
-            "stars": 19458,
+            "stars": 19462,
             "topics": [
               "dataset",
               "fake",
@@ -473,7 +473,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T06:09:26.277Z",
+    "last_updated": "2026-10-25T06:29:49.205Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome synthetic data tools (open source and commercial).",
@@ -485,7 +485,7 @@
       "open_issues": 14,
       "owner": "statice",
       "repo": "awesome-synthetic-data",
-      "stars": 269,
+      "stars": 270,
       "topics": [
         "anonymization",
         "awesome-list",
