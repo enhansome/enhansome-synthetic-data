@@ -12,7 +12,7 @@ Inspired by [Awesome Synthetic Data](https://github.com/gretelai/awesome-synthet
 
 # Open source tools
 
-* [Faker](https://github.com/joke2k/faker) ⭐ 19,462 | 🐛 53 | 🌐 Python | 📅 2026-10-09: a Python package that generates fake data (Note: this tool does not generate synthetic data but offers dummy data).
+* [Faker](https://github.com/joke2k/faker) ⭐ 19,464 | 🐛 53 | 🌐 Python | 📅 2026-10-09: a Python package that generates fake data (Note: this tool does not generate synthetic data but offers dummy data).
 * [YData](https://github.com/ydataai/ydata-synthetic) ⭐ 1,661 | 🐛 68 | 🌐 Jupyter Notebook | 📅 2026-09-03: synthetic structured data generator by YData, a commercial vendor.
 * [CTGAN](https://github.com/sdv-dev/CTGAN) ⭐ 1,576 | 🐛 41 | 🌐 Python | 📅 2026-10-19: SDV’s collection of deep learning-based synthetic data generators for single table data.
 * [Copulas](https://github.com/sdv-dev/Copulas) ⭐ 657 | 🐛 55 | 🌐 Python | 📅 2026-10-12: a Python library for modeling multivariate distributions and sampling from them using copula functions.
@@ -66,4 +66,4 @@ Inspired by [Awesome Synthetic Data](https://github.com/gretelai/awesome-synthet
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-26._
