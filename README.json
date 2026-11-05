@@ -16,7 +16,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-28T17:06:52Z",
-            "open_issues": 52,
+            "open_issues": 57,
             "owner": "joke2k",
             "repo": "faker",
             "stars": 19479,
@@ -47,7 +47,7 @@
             "language": "Jupyter Notebook",
             "license": "MIT",
             "last_commit": "2026-09-03T22:52:13Z",
-            "open_issues": 68,
+            "open_issues": 66,
             "owner": "Data-Centric-AI-Community",
             "repo": "fg-data-synthetic",
             "stars": 1662,
@@ -473,7 +473,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T07:44:54.709Z",
+    "last_updated": "2026-11-05T08:09:54.258Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome synthetic data tools (open source and commercial).",
