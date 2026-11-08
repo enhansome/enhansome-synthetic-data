@@ -16,7 +16,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-28T17:06:52Z",
-            "open_issues": 57,
+            "open_issues": 58,
             "owner": "joke2k",
             "repo": "faker",
             "stars": 19485,
@@ -87,7 +87,7 @@
             "open_issues": 41,
             "owner": "sdv-dev",
             "repo": "CTGAN",
-            "stars": 1578,
+            "stars": 1577,
             "topics": [
               "data-generation",
               "generative-adversarial-network",
@@ -473,7 +473,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T07:30:15.430Z",
+    "last_updated": "2026-11-08T07:41:46.236Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome synthetic data tools (open source and commercial).",
@@ -485,7 +485,7 @@
       "open_issues": 14,
       "owner": "statice",
       "repo": "awesome-synthetic-data",
-      "stars": 272,
+      "stars": 273,
       "topics": [
         "anonymization",
         "awesome-list",
