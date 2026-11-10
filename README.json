@@ -15,8 +15,8 @@
             "id": 6662075,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-28T17:06:52Z",
-            "open_issues": 57,
+            "last_commit": "2026-11-09T18:29:09Z",
+            "open_issues": 48,
             "owner": "joke2k",
             "repo": "faker",
             "stars": 19487,
@@ -87,7 +87,7 @@
             "open_issues": 41,
             "owner": "sdv-dev",
             "repo": "CTGAN",
-            "stars": 1577,
+            "stars": 1578,
             "topics": [
               "data-generation",
               "generative-adversarial-network",
@@ -144,7 +144,7 @@
             "open_issues": 4,
             "owner": "plaitpy",
             "repo": "plaitpy",
-            "stars": 437,
+            "stars": 438,
             "topics": [
               "declarative",
               "modeling",
@@ -169,7 +169,7 @@
             "open_issues": 4,
             "owner": "fjxmlzn",
             "repo": "DoppelGANger",
-            "stars": 312,
+            "stars": 313,
             "topics": [
               "dataset-generation",
               "datasets",
@@ -205,7 +205,7 @@
             "open_issues": 4,
             "owner": "tirthajyoti",
             "repo": "pydbgen",
-            "stars": 312,
+            "stars": 313,
             "topics": [
               "data-generation",
               "data-science",
@@ -473,7 +473,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T08:21:02.025Z",
+    "last_updated": "2026-11-10T08:38:45.746Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome synthetic data tools (open source and commercial).",
