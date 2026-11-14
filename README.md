@@ -12,7 +12,7 @@ Inspired by [Awesome Synthetic Data](https://github.com/gretelai/awesome-synthet
 
 # Open source tools
 
-* [Faker](https://github.com/joke2k/faker) ⭐ 19,489 | 🐛 55 | 🌐 Python | 📅 2026-11-10: a Python package that generates fake data (Note: this tool does not generate synthetic data but offers dummy data).
+* [Faker](https://github.com/joke2k/faker) ⭐ 19,490 | 🐛 56 | 🌐 Python | 📅 2026-11-10: a Python package that generates fake data (Note: this tool does not generate synthetic data but offers dummy data).
 * [YData](https://github.com/ydataai/ydata-synthetic) ⭐ 1,664 | 🐛 66 | 🌐 Jupyter Notebook | 📅 2026-09-03: synthetic structured data generator by YData, a commercial vendor.
 * [CTGAN](https://github.com/sdv-dev/CTGAN) ⭐ 1,579 | 🐛 41 | 🌐 Python | 📅 2026-11-02: SDV’s collection of deep learning-based synthetic data generators for single table data.
 * [Copulas](https://github.com/sdv-dev/Copulas) ⭐ 658 | 🐛 54 | 🌐 Python | 📅 2026-11-02: a Python library for modeling multivariate distributions and sampling from them using copula functions.
@@ -25,7 +25,7 @@ Inspired by [Awesome Synthetic Data](https://github.com/gretelai/awesome-synthet
 * [Generative adversarial nets for synthetic time series data](https://github.com/stefan-jansen/synthetic-data-for-finance) ⭐ 131 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2020-11-18: a repository that shows how to create synthetic time-series data using generative adversarial networks (GANs).
 * [Tofu](https://github.com/spiros/tofu) ⭐ 73 | 🐛 4 | 🌐 Python | 📅 2023-07-25: a Python library for generating synthetic UK Biobank data.
 * [Twinify](https://github.com/DPBayes/twinify) ⭐ 55 | 🐛 16 | 🌐 Python | 📅 2024-09-03: a software package for privacy-preserving generation of a synthetic twin to a given sensitive data set.
-* [Synner](https://github.com/huda-lab/synner) ⭐ 46 | 🐛 14 | 🌐 JavaScript | 📅 2024-02-15: an open source tool to generate real-looking synthetic data by visually specifying the properties of the dataset.
+* [Synner](https://github.com/huda-lab/synner) ⭐ 47 | 🐛 14 | 🌐 JavaScript | 📅 2024-02-15: an open source tool to generate real-looking synthetic data by visually specifying the properties of the dataset.
 * [DP\_WGAN-UCLANESL](https://github.com/nesl/nist_differential_privacy_synthetic_data_challenge) ⭐ 26 | 🐛 2 | 🌐 Python | 📅 2019-05-30: this solution trains a Wasserstein generative adversarial network (w-GAN) that is trained on the real private dataset.
 * [mirrorGen](https://github.com/DataResponsibly/MirrorDataGenerator) ⭐ 25 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2022-06-22: a python tool that generates synthetic data based on user-specified causal relations among features in the data.
 * [Gretel.ai](https://gretel.ai/): commercial synthetic data vendor that offers open source functionality.
@@ -66,4 +66,4 @@ Inspired by [Awesome Synthetic Data](https://github.com/gretelai/awesome-synthet
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._

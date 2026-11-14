@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-11-10T22:06:02Z",
-            "open_issues": 55,
+            "open_issues": 56,
             "owner": "joke2k",
             "repo": "faker",
-            "stars": 19489,
+            "stars": 19490,
             "topics": [
               "dataset",
               "fake",
@@ -402,7 +402,7 @@
             "open_issues": 14,
             "owner": "huda-lab",
             "repo": "synner",
-            "stars": 46,
+            "stars": 47,
             "topics": [
               "angularjs",
               "chi",
@@ -473,7 +473,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T08:26:24.244Z",
+    "last_updated": "2026-11-14T07:48:25.949Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome synthetic data tools (open source and commercial).",
@@ -482,10 +482,10 @@
       "language": null,
       "license": "Apache-2.0",
       "last_commit": "2024-01-11T12:32:05Z",
-      "open_issues": 14,
+      "open_issues": 15,
       "owner": "statice",
       "repo": "awesome-synthetic-data",
-      "stars": 273,
+      "stars": 274,
       "topics": [
         "anonymization",
         "awesome-list",
