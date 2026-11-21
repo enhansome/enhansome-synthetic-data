@@ -15,11 +15,11 @@
             "id": 6662075,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-10T22:06:02Z",
-            "open_issues": 62,
+            "last_commit": "2026-11-20T18:16:40Z",
+            "open_issues": 49,
             "owner": "joke2k",
             "repo": "faker",
-            "stars": 19500,
+            "stars": 19503,
             "topics": [
               "dataset",
               "fake",
@@ -473,7 +473,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T08:50:37.227Z",
+    "last_updated": "2026-11-21T08:32:01.227Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome synthetic data tools (open source and commercial).",
