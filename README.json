@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-11-20T18:16:40Z",
-            "open_issues": 49,
+            "open_issues": 54,
             "owner": "joke2k",
             "repo": "faker",
-            "stars": 19503,
+            "stars": 19502,
             "topics": [
               "dataset",
               "fake",
@@ -169,7 +169,7 @@
             "open_issues": 4,
             "owner": "fjxmlzn",
             "repo": "DoppelGANger",
-            "stars": 312,
+            "stars": 313,
             "topics": [
               "dataset-generation",
               "datasets",
@@ -473,7 +473,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T08:32:01.227Z",
+    "last_updated": "2026-11-22T08:27:20.164Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome synthetic data tools (open source and commercial).",
