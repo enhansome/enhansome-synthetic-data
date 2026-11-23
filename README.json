@@ -19,7 +19,7 @@
             "open_issues": 54,
             "owner": "joke2k",
             "repo": "faker",
-            "stars": 19502,
+            "stars": 19503,
             "topics": [
               "dataset",
               "fake",
@@ -473,7 +473,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T08:27:20.164Z",
+    "last_updated": "2026-11-23T09:26:08.015Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome synthetic data tools (open source and commercial).",
@@ -482,7 +482,7 @@
       "language": null,
       "license": "Apache-2.0",
       "last_commit": "2024-01-11T12:32:05Z",
-      "open_issues": 15,
+      "open_issues": 16,
       "owner": "statice",
       "repo": "awesome-synthetic-data",
       "stars": 274,
